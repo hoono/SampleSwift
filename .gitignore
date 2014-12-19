@@ -18,8 +18,8 @@ profile
 *.moved-aside
 
 # CocoaPod
-src/Pods/*
-src/Podfile.lock
+Pods/*
+Podfile.lock
 
 # *.xcodeproj/*
 # !*.xcodeproj/project.pbxproj
